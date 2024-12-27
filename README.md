@@ -1,4 +1,4 @@
 # new
 my first git repos
 <br>
-author - rudranil roy
+author - rudranil roy-dev
