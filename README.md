@@ -1,3 +1,4 @@
 # new
 my first git repos
-autho - rudranil roy
+<br>
+author - rudranil roy
